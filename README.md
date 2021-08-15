@@ -3,5 +3,3 @@
 Fun quiz to check how well do you know about me!
 
 Node.js
-
-#markOne
